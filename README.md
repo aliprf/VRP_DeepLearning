@@ -35,7 +35,9 @@ The result should be "./vrp_v_env/bin/python".
 
 >> pip install -r requirements.txt 
 
+
 ### running the code:
+1- You can change the configuration in config.py
 
 At this step, you can run the code using:
 
