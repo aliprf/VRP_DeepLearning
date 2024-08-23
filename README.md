@@ -28,7 +28,14 @@ After sourcing the virtual environment, run the following code to see if everyth
 
 >> which python
 
+
 The result should be "./vrp_v_env/bin/python".
+
+### installing requirements:
+
+>> pip install -r requirements.txt 
+
+### running the code:
 
 At this step, you can run the code using:
 
