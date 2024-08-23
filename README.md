@@ -14,13 +14,13 @@ You need to be a sudo user to be able to run this code, as it is going to instal
 If the installation is successful, you will see the following message:
 
 
->> echo "Virtual environment 'vorto_v_env' created and activated with Python 3.8."
+>> "Virtual environment 'vrp_v_env' created and activated with Python 3.8."
 
 
 ### Activation of the virtual environment: 
 Open a terminal in the current directory, and run the following:
 
->> source ./vorto_v_env/bin/activate
+>> source ./vrp_v_env/bin/activate
 
 
 ### Testing the virtual environment:
@@ -28,7 +28,7 @@ After sourcing the virtual environment, run the following code to see if everyth
 
 >> which python
 
-The result should be "./vorto_v_env/bin/python".
+The result should be "./vrp_v_env/bin/python".
 
 At this step, you can run the code using:
 
